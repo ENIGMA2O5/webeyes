@@ -50,10 +50,10 @@
 apt-get install python3
 ```
 ```
-pip3 install requests
+py -3 -m pip install requests
 ```
 ```
-pip3 install dnspython
+py -3 -m pip install dnspython
 ```
 
 ## Install
