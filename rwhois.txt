@@ -1,0 +1,307 @@
+[INFO] START: 31/08/2022 21:57:19
+TARGET: instagram.com
+
+ | 10688---instagram.com                           | 2019-04-24     | GODADDY.COM, LLC
+ | 18-instagram.com                                | 2020-01-24     | GODADDY.COM, LLC
+ | 482901028381-instagram.com                      | 2020-06-17     | WILD WEST DOMAINS, LLC
+ | 5kmadesimple.com                                | 2021-12-19     | SQUARESPACE DOMAINS LLC
+ | a-instagram.com                                 | 2019-01-29     | DANESCO TRADING LTD.
+ | about-instagram.com                             | 2020-04-23     | WILD WEST DOMAINS, LLC
+ | about-instagram.com                             | 2020-08-13     | WILD WEST DOMAINS, LLC
+ | about-instagram.com                             | 2020-08-18     | WILD WEST DOMAINS, LLC
+ | account-verify-instagram.com                    | 2020-05-27     | WILD WEST DOMAINS, LLC
+ | activity-instagram.com                          | 2020-09-19     | TUCOWS DOMAINS INC.
+ | ad-instagram.com                                | 2018-04-03     | GODADDY.COM, LLC
+ | admin-instagram.com                             | 2021-08-05     | WILD WEST DOMAINS, LLC
+ | aid-instagram.com                               | 2020-08-19     | WILD WEST DOMAINS, LLC
+ | alert-instagram.com                             | 2018-01-22     | REGISTRAR OF DOMAIN NAMES REG.RU LLC
+ | americanas-instagram.com                        | 2020-06-18     | GODADDY.COM, LLC
+ | animepyre.com                                   | 2021-01-19     | GODADDY.COM, LLC
+ | apexfiltrationtrading.com                       | 2019-12-13     | GODADDY.COM, LLC
+ | api-instagram.com                               | 2018-10-18     | GODADDY.COM, LLC
+ | appeal-instagram.com                            | 2020-07-05     | WILD WEST DOMAINS, LLC
+ | appealform-copyright-instagram.com              | 2021-02-11     | WILD WEST DOMAINS, LLC
+ | appeals-instagram.com                           | 2021-04-06     | WILD WEST DOMAINS, LLC
+ | applelandpk.com                                 | 2021-02-01     | GODADDY.COM, LLC
+ | approved-instagram.com                          | 2020-08-28     | WILD WEST DOMAINS, LLC
+ | apps-instagram.com                              | 2019-12-12     | GODADDY.COM, LLC
+ | auto-follower-instagram.com                     | 2018-01-14     | NAME.COM, INC.
+ | auto-followers-instagram.com                    | 2017-05-13     | TUCOWS DOMAINS INC.
+ | auto-like-instagram.com                         | 2018-01-14     | NAME.COM, INC.
+ | autofollowers-instagram.com                     | 2017-05-13     | TUCOWS DOMAINS INC.
+ | autofollowers-instagram.com                     | 2017-05-13     | TUCOWS DOMAINS INC.
+ | badge-instagram.com                             | 2020-09-08     | TUCOWS DOMAINS INC.
+ | badge-service-instagram.com                     | 2021-04-16     | WILD WEST DOMAINS, LLC
+ | badgeform-instagram.com                         | 2020-08-30     | WILD WEST DOMAINS, LLC
+ | bank-instagram.com                              | 2019-04-01     | GODADDY.COM, LLC
+ | bentleyevent.com                                | 2017-01-03     | GOOGLE INC.
+ | biscuitdoricky.com                              | 2017-12-08     | NETWORK SOLUTIONS, LLC.
+ | blue-tick-instagram.com                         | 2020-06-22     | WILD WEST DOMAINS, LLC
+ | bluebadge-instagram.com                         | 2020-09-01     | WILD WEST DOMAINS, LLC
+ | bot-instagram.com                               | 2020-05-15     | INTERNET DOMAIN SERVICE BS CORP
+ | boycott-instagram.com                           | 2019-07-16     | GODADDY.COM, LLC
+ | breach-instagram.com                            | 2020-09-06     | WILD WEST DOMAINS, LLC
+ | browser-instagram.com                           | 2020-03-25     | GODADDY.COM, LLC
+ | burlsart-instagram.com                          | 2019-03-25     | GODADDY.COM, LLC
+ | business-copyright-instagram.com                | 2020-06-23     | WILD WEST DOMAINS, LLC
+ | businesshelp-instagram.com                      | 2020-05-09     | WILD WEST DOMAINS, LLC
+ | bussines-help-instagram.com                     | 2020-04-21     | WILD WEST DOMAINS, LLC
+ | case-instagram.com                              | 2020-08-23     | WILD WEST DOMAINS, LLC
+ | center-instagram.com                            | 2020-06-19     | WILD WEST DOMAINS, LLC
+ | center-instagram.com                            | 2020-09-05     | WILD WEST DOMAINS, LLC
+ | centre-instagram.com                            | 2021-07-10     | WILD WEST DOMAINS, LLC
+ | challange-instagram.com                         | 2019-11-17     | WILD WEST DOMAINS, LLC
+ | challenge-instagram.com                         | 2018-09-24     | GODADDY.COM, LLC
+ | check-profile-instagram.com                     | 2017-12-20     | REGISTRAR OF DOMAIN NAMES REG.RU LLC
+ | client-instagram.com                            | 2020-05-08     | WILD WEST DOMAINS, LLC
+ | clients-instagram.com                           | 2020-05-11     | WILD WEST DOMAINS, LLC
+ | cnnhistory.com                                  | 2019-04-06     | GODADDY.COM, LLC
+ | cocainine.com                                   | 2019-05-16     | REGISTER.COM, INC.
+ | com-locked-instagram.com                        | 2017-11-12     | TUCOWS DOMAINS INC.
+ | com-locked-instagram.com                        | 2017-11-12     | TUCOWS DOMAINS INC.
+ | community-instagram.com                         | 2021-08-01     | WILD WEST DOMAINS, LLC
+ | community-rules-instagram.com                   | 2020-10-15     | WILD WEST DOMAINS, LLC
+ | confirm-instagram.com                           | 2020-06-19     | WILD WEST DOMAINS, LLC
+ | confirm-protect-instagram.com                   | 2018-02-18     | REGISTRAR OF DOMAIN NAMES REG.RU LLC
+ | confirm-user-instagram.com                      | 2018-02-05     | REGISTRAR OF DOMAIN NAMES REG.RU LLC
+ | copyright--instagram.com                        | 2020-05-26     | WILD WEST DOMAINS, LLC
+ | copyright-for-instagram.com                     | 2020-09-19     | TUCOWS DOMAINS INC.
+ | copyright-help-instagram.com                    | 2019-09-01     | GODADDY.COM, LLC
+ | copyright-help-instagram.com                    | 2020-07-26     | WILD WEST DOMAINS, LLC
+ | copyright-help-instagram.com                    | 2021-10-20     | WILD WEST DOMAINS, LLC
+ | copyright-officies-instagram.com                | 2020-08-30     | TUCOWS DOMAINS INC.
+ | copyright-rules-instagram.com                   | 2021-04-06     | TUCOWS DOMAINS INC.
+ | copyright-rules-instagram.com                   | 2021-04-06     | TUCOWS DOMAINS INC.
+ | copyright-violate-instagram.com                 | 2021-02-06     | WILD WEST DOMAINS, LLC
+ | copyright-violation-instagram.com               | 2020-09-05     | WILD WEST DOMAINS, LLC
+ | copyrightappeal-instagram.com                   | 2020-09-09     | WILD WEST DOMAINS, LLC
+ | copyrightappealform-instagram.com               | 2020-06-03     | WILD WEST DOMAINS, LLC
+ | copyrightcenter-instagram.com                   | 2020-10-13     | TUCOWS DOMAINS INC.
+ | copyrightcenter-instagram.com                   | 2020-12-15     | WILD WEST DOMAINS, LLC
+ | copyrightcenter-instagram.com                   | 2021-09-28     | WILD WEST DOMAINS, LLC
+ | copyrighter-instagram.com                       | 2021-03-24     | WILD WEST DOMAINS, LLC
+ | copyrightform-instagram.com                     | 2020-08-20     | WILD WEST DOMAINS, LLC
+ | copyrightforms-instagram.com                    | 2020-09-13     | WILD WEST DOMAINS, LLC
+ | copyrightinfrigement-instagram.com              | 2020-07-22     | WILD WEST DOMAINS, LLC
+ | copyrightnotice-instagram.com                   | 2020-10-13     | TUCOWS DOMAINS INC.
+ | copyrightnotice-instagram.com                   | 2021-01-30     | WILD WEST DOMAINS, LLC
+ | copyrights-for-instagram.com                    | 2020-08-25     | WILD WEST DOMAINS, LLC
+ | copyrights-help-instagram.com                   | 2021-07-04     | WILD WEST DOMAINS, LLC
+ | copyrights-instagram.com                        | 2020-06-23     | WILD WEST DOMAINS, LLC
+ | copyrightsappeal-instagram.com                  | 2021-01-30     | WILD WEST DOMAINS, LLC
+ | copyrightservices-instagram.com                 | 2020-06-30     | WILD WEST DOMAINS, LLC
+ | copyrightsupport-instagram.com                  | 2020-05-09     | WILD WEST DOMAINS, LLC
+ | copyrightsverify-instagram.com                  | 2020-07-30     | WILD WEST DOMAINS, LLC
+ | copyrightverify-instagram.com                   | 2020-07-27     | WILD WEST DOMAINS, LLC
+ | copyrightviolation-instagram.com                | 2020-09-07     | WILD WEST DOMAINS, LLC
+ | copyrigt-help-instagram.com                     | 2019-09-01     | GODADDY.COM, LLC
+ | copyrigth-instagram.com                         | 2021-04-19     | WILD WEST DOMAINS, LLC
+ | customymahjong.com                              | 2019-04-26     | GODADDY.COM, LLC
+ | dark-instagram.com                              | 2018-12-14     | GODADDY.COM, LLC
+ | de-instagram.com                                | 2021-07-08     | DYNADOT, LLC
+ | destek-instagram.com                            | 2020-08-26     | WILD WEST DOMAINS, LLC
+ | discussread.com                                 | 2019-12-23     | GODADDY.COM, LLC
+ | dl-instagram.com                                | 2019-06-30     | GODADDY.COM, LLC
+ | dm-instagram.com                                | 2020-09-28     | WILD WEST DOMAINS, LLC
+ | done-instagram.com                              | 2018-09-24     | GODADDY.COM, LLC
+ | drmafazi.com                                    | 2017-09-16     | ONLINENIC, INC.
+ | ecriture-instagram.com                          | 2021-04-01     | INTERNET DOMAIN SERVICE BS CORP
+ | fancymelive-official.com                        | 2021-09-13     | HOSTING CONCEPTS B.V. D/B/A REGISTRAR.EU
+ | fancymelive.com                                 | 2021-09-19     | HOSTING CONCEPTS B.V. D/B/A REGISTRAR.EU
+ | fb-copyright-instagram.com                      | 2020-10-10     | TUCOWS DOMAINS INC.
+ | fb-help-instagram.com                           | 2021-03-24     | WILD WEST DOMAINS, LLC
+ | fb-instagram.com                                | 2020-01-19     | TUCOWS DOMAINS INC.
+ | fbcopyright-instagram.com                       | 2020-09-03     | WILD WEST DOMAINS, LLC
+ | formhelps-instagram.com                         | 2020-09-18     | TUCOWS DOMAINS INC.
+ | fotograf-instagram.com                          | 2019-06-16     | GODADDY.COM, LLC
+ | free-follower-instagram.com                     | 2018-01-14     | NAME.COM, INC.
+ | free-instagram.com                              | 2018-11-16     | REGISTRAR OF DOMAIN NAMES REG.RU LLC
+ | free-instagram.com                              | 2022-03-16     | AUTOMATTIC INC.
+ | frictionless-instagram.com                      | 2018-08-04     | GODADDY.COM, LLC
+ | from-help-instagram.com                         | 2020-07-21     | WILD WEST DOMAINS, LLC
+ | fuck-instagram.com                              | 2021-05-16     | TUCOWS DOMAINS INC.
+ | fuck-instagram.com                              | 2021-05-16     | TUCOWS DOMAINS INC.
+ | geld-verdienen-mit-instagram.com                | 2017-05-25     | MESH DIGITAL LIMITED
+ | get-followers-instagram.com                     | 2018-01-14     | NAME.COM, INC.
+ | giris-instagram.com                             | 2020-07-01     | WILD WEST DOMAINS, LLC
+ | giriss-instagram.com                            | 2020-07-01     | WILD WEST DOMAINS, LLC
+ | glorstone.com                                   | 2021-03-08     | PDR LTD. D/B/A PUBLICDOMAINREGISTRY.COM
+ | grow-instagram.com                              | 2018-12-11     | 1API GMBH
+ | gspropertylinker.com                            | 2020-10-01     | GODADDY.COM, LLC
+ | hack-someones-instagram.com                     | 2019-12-06     | GODADDY.COM, LLC
+ | hadarahinteriors.com                            | 2021-02-22     | GODADDY.COM, LLC
+ | haleyjoypage.com                                | 2022-01-08     | SQUARESPACE DOMAINS LLC
+ | happymamaoats.com                               | 2019-06-01     | GODADDY.COM, LLC
+ | hashtag-instagram.com                           | 2021-04-02     | INTERNET DOMAIN SERVICE BS CORP
+ | help-about-instagram.com                        | 2020-07-11     | WILD WEST DOMAINS, LLC
+ | help-case-instagram.com                         | 2020-10-08     | TUCOWS DOMAINS INC.
+ | help-contact-instagram.com                      | 2020-05-20     | WILD WEST DOMAINS, LLC
+ | help-copyrightform-instagram.com                | 2020-07-09     | WILD WEST DOMAINS, LLC
+ | help-from-instagram.com                         | 2020-07-20     | WILD WEST DOMAINS, LLC
+ | help-reply-instagram.com                        | 2020-10-06     | TUCOWS DOMAINS INC.
+ | help-service-instagram.com                      | 2020-05-08     | WILD WEST DOMAINS, LLC
+ | help-verifiedbadge-instagram.com                | 2019-06-02     | GODADDY.COM, LLC
+ | help-verifiedbadgeform-instagram.com            | 2020-07-09     | WILD WEST DOMAINS, LLC
+ | help-verifiedbadges-instagram.com               | 2021-03-07     | WILD WEST DOMAINS, LLC
+ | helpcenter-instagram.com                        | 2019-12-12     | GODADDY.COM, LLC
+ | helpcenter-instagram.com                        | 2021-03-04     | WILD WEST DOMAINS, LLC
+ | helpcenterverify-instagram.com                  | 2021-02-15     | WILD WEST DOMAINS, LLC
+ | helpcontact-instagram.com                       | 2020-05-05     | WILD WEST DOMAINS, LLC
+ | helpcopyright-instagram.com                     | 2020-06-15     | WILD WEST DOMAINS, LLC
+ | helpcopyrigt-instagram.com                      | 2019-02-22     | WIX.COM LTD.
+ | helpinfo-instagram.com                          | 2020-12-28     | WILD WEST DOMAINS, LLC
+ | helps-about-instagram.com                       | 2020-08-31     | WILD WEST DOMAINS, LLC
+ | helpscenter-instagram.com                       | 2021-02-06     | WILD WEST DOMAINS, LLC
+ | helpsecure-instagram.com                        | 2020-06-03     | WILD WEST DOMAINS, LLC
+ | helpservice-instagram.com                       | 2020-08-29     | WILD WEST DOMAINS, LLC
+ | helpserviced-instagram.com                      | 2021-02-06     | WILD WEST DOMAINS, LLC
+ | helpservices-instagram.com                      | 2020-05-09     | WILD WEST DOMAINS, LLC
+ | helpsupport-instagram.com                       | 2020-12-01     | WILD WEST DOMAINS, LLC
+ | helpteam-instagram.com                          | 2020-08-03     | WILD WEST DOMAINS, LLC
+ | hh-instagram.com                                | 2017-01-20     | REGISTRAR OF DOMAIN NAMES REG.RU LLC
+ | ig-instagram.com                                | 2019-01-21     | GODADDY.COM, LLC
+ | ihelp-instagram.com                             | 2021-04-12     | WILD WEST DOMAINS, LLC
+ | image-instagram.com                             | 2021-03-07     | WILD WEST DOMAINS, LLC
+ | info-instagram.com                              | 2019-07-19     | GODADDY.COM, LLC
+ | info-instagram.com                              | 2021-02-13     | INTERNET DOMAIN SERVICE BS CORP
+ | infocopyright-instagram.com                     | 2021-05-05     | WILD WEST DOMAINS, LLC
+ | instagram-com-karif-9.com                       | 2018-05-24     | TUCOWS DOMAINS INC.
+ | instagram-instagram.com                         | 2020-02-10     | GODADDY.COM, LLC
+ | instastoriesfestival.com                        | 2017-06-15     | NETWORK SOLUTIONS, LLC.
+ | invision-instagram.com                          | 2019-03-18     | WIX.COM LTD.
+ | islandpeoples.com                               | 2020-05-05     | WILD WEST DOMAINS, LLC
+ | itsby.us                                        | 2015-12-10     | DOMAIN.COM, LLC
+ | izz-instagram.com                               | 2018-10-18     | GODADDY.COM, LLC
+ | jai-instagram.com                               | 2019-02-15     | GODADDY.COM, LLC
+ | jekasjournal.com                                | 2019-10-27     | GODADDY.COM, LLC
+ | kuhrmarvin.com                                  | 2018-05-08     | REGISTRYGATE GMBH
+ | l-instagram.com                                 | 2020-08-27     | WILD WEST DOMAINS, LLC
+ | ladoceuloja.com                                 | 2018-07-30     | NETWORK SOLUTIONS, LLC.
+ | line-instagram.com                              | 2020-09-29     | TUCOWS DOMAINS INC.
+ | live-instagram.com                              | 2020-09-12     | WILD WEST DOMAINS, LLC
+ | livenotices-instagram.com                       | 2021-01-27     | WILD WEST DOMAINS, LLC
+ | livesupportcenter-instagram.com                 | 2020-09-02     | WILD WEST DOMAINS, LLC
+ | login-copyright-instagram.com                   | 2020-08-08     | WILD WEST DOMAINS, LLC
+ | login-instagram.com                             | 2020-04-16     | TUCOWS DOMAINS INC.
+ | login-instagram.com                             | 2020-04-16     | TUCOWS DOMAINS INC.
+ | loveofmachine.com                               | 2018-10-24     | NETREGISTRY PTY. LTD.
+ | luckybamboo9.com                                | 2021-03-31     | GODADDY.COM, LLC
+ | mail--instagram.com                             | 2020-02-17     | WILD WEST DOMAINS, LLC
+ | mail-confirm-instagram.com                      | 2018-02-03     | REGISTRAR OF DOMAIN NAMES REG.RU LLC
+ | mail-protect-instagram.com                      | 2018-01-08     | REGISTRAR OF DOMAIN NAMES REG.RU LLC
+ | mail1-instagram.com                             | 2018-10-11     | TUCOWS DOMAINS INC.
+ | mail1-instagram.com                             | 2018-10-11     | TUCOWS DOMAINS INC.
+ | mailing-instagram.com                           | 2019-04-22     | GODADDY.COM, LLC
+ | manage-instagram.com                            | 2019-05-24     | GODADDY.COM, LLC
+ | massfollowing-instagram.com                     | 2017-10-23     | REGISTRAR OF DOMAIN NAMES REG.RU LLC
+ | mediahelps-instagram.com                        | 2018-12-09     | GODADDY.COM, LLC
+ | millionaire-instagram.com                       | 2016-08-17     | INTERNET DOMAIN SERVICE BS CORP
+ | mobil-app-instagram.com                         | 2020-05-23     | WILD WEST DOMAINS, LLC
+ | mobil-instagram.com                             | 2020-05-08     | WILD WEST DOMAINS, LLC
+ | modelle-instagram.com                           | 2017-09-21     | INTERNET DOMAIN SERVICE BS CORP
+ | nakrutka-instagram.com                          | 2021-04-27     | REGISTRAR OF DOMAIN NAMES REG.RU LLC
+ | newlifefashionandgadgets.com                    | 2019-02-15     | GODADDY.COM, LLC
+ | nikulshinaelena-instagram.com                   | 2018-04-30     | REGISTRAR OF DOMAIN NAMES REG.RU LLC
+ | no-reply-instagram.com                          | 2020-07-05     | WILD WEST DOMAINS, LLC
+ | no-reply-mail-instagram.com                     | 2021-02-02     | WILD WEST DOMAINS, LLC
+ | noreply-instagram.com                           | 2020-05-23     | WILD WEST DOMAINS, LLC
+ | our-instagram.com                               | 2017-02-24     | DOMAIN.COM, LLC
+ | partner-instagram.com                           | 2019-05-07     | GODADDY.COM, LLC
+ | pimentel-instagram.com                          | 2017-04-03     | GRANSY S.R.O D/B/A SUBREG.CZ
+ | pione-instagram.com                             | 2021-06-25     | WIX.COM LTD.
+ | poshpicnicsociety.com                           | 2021-06-07     | SQUARESPACE DOMAINS LLC
+ | powerlikes-instagram.com                        | 2019-01-15     | GODADDY.COM, LLC
+ | prinsesabyela.com                               | 2021-02-04     | GODADDY.COM, LLC
+ | pro-instagram.com                               | 2018-09-28     | REGISTRAR OF DOMAIN NAMES REG.RU LLC
+ | promozione-instagram.com                        | 2020-02-06     | INTERNET DOMAIN SERVICE BS CORP
+ | protect-confirm-instagram.com                   | 2018-02-12     | REGISTRAR OF DOMAIN NAMES REG.RU LLC
+ | protect-login-instagram.com                     | 2018-02-23     | REGISTRAR OF DOMAIN NAMES REG.RU LLC
+ | quality-instagram.com                           | 2017-08-09     | REGISTRAR OF DOMAIN NAMES REG.RU LLC
+ | raskrutka-instagram.com                         | 2018-11-09     | REGISTRAR OF DOMAIN NAMES REG.RU LLC
+ | recovery-instagram.com                          | 2020-06-21     | EPIK INC.
+ | report-instagram.com                            | 2021-06-02     | WIX.COM LTD.
+ | reportservice-instagram.com                     | 2020-08-31     | WILD WEST DOMAINS, LLC
+ | reportservices-instagram.com                    | 2020-08-30     | WILD WEST DOMAINS, LLC
+ | request-instagram.com                           | 2020-09-16     | WILD WEST DOMAINS, LLC
+ | reset-instagram.com                             | 2021-02-27     | WILD WEST DOMAINS, LLC
+ | resize-instagram.com                            | 2020-03-25     | AMAZON REGISTRAR, INC.
+ | reussir-sur-instagram.com                       | 2017-01-19     | NETWORK SOLUTIONS, LLC.
+ | rujamaican.com                                  | 2019-04-20     | GODADDY.COM, LLC
+ | rules-instagram.com                             | 2020-08-27     | WILD WEST DOMAINS, LLC
+ | s-instagram.com                                 | 2019-01-23     | GODADDY.COM, LLC
+ | safe-instagram.com                              | 2021-08-01     | WILD WEST DOMAINS, LLC
+ | savetoinvest.biz                                | 2019-09-23     | GODADDY.COM, INC.
+ | security--instagram.com                         | 2020-05-09     | WILD WEST DOMAINS, LLC
+ | security-instagram.com                          | 2018-11-09     | GODADDY.COM, LLC
+ | securitydata-instagram.com                      | 2020-07-22     | GODADDY.COM, LLC
+ | server2-instagram.com                           | 2018-03-19     | GODADDY.COM, LLC
+ | service-instagram.com                           | 2020-04-16     | WILD WEST DOMAINS, LLC
+ | services-instagram.com                          | 2020-05-13     | WILD WEST DOMAINS, LLC
+ | shoepifystore.com                               | 2018-09-26     | PDR LTD. D/B/A PUBLICDOMAINREGISTRY.COM
+ | shop-instagram.com                              | 2017-10-20     | REGISTRAR OF DOMAIN NAMES REG.RU LLC
+ | smm-instagram.com                               | 2018-09-18     | REGISTRAR OF DOMAIN NAMES REG.RU LLC
+ | sorcieremarchande.com                           | 2019-02-18     | GODADDY.COM, LLC
+ | support-casee-instagram.com                     | 2019-09-22     | WILD WEST DOMAINS, LLC
+ | support-instagram.com                           | 2018-12-10     | GODADDY.COM, LLC
+ | supportcenter-instagram.com                     | 2020-08-17     | WILD WEST DOMAINS, LLC
+ | supportcenters-instagram.com                    | 2020-08-30     | WILD WEST DOMAINS, LLC
+ | supporting-instagram.com                        | 2020-09-08     | WILD WEST DOMAINS, LLC
+ | supportmail-instagram.com                       | 2020-12-30     | WILD WEST DOMAINS, LLC
+ | supportteam-instagram.com                       | 2020-04-24     | WILD WEST DOMAINS, LLC
+ | team-instagram.com                              | 2019-03-20     | GODADDY.COM, LLC
+ | the-instagram.com                               | 2021-08-28     | WILD WEST DOMAINS, LLC
+ | ticket-instagram.com                            | 2020-08-28     | WILD WEST DOMAINS, LLC
+ | tickform-instagram.com                          | 2020-08-09     | WILD WEST DOMAINS, LLC
+ | tiktok-instagram.com                            | 2020-02-26     | REGISTRAR OF DOMAIN NAMES REG.RU LLC
+ | top-instagram.com                               | 2018-10-24     | REGISTRAR OF DOMAIN NAMES REG.RU LLC
+ | tr-instagram.com                                | 2018-04-12     | TUCOWS DOMAINS INC.
+ | tr-instagram.com                                | 2018-04-12     | TUCOWS DOMAINS INC.
+ | tr-instagram.com                                | 2020-05-14     | WILD WEST DOMAINS, LLC
+ | tr-instagram.com                                | 2020-07-01     | WILD WEST DOMAINS, LLC
+ | trump-instagram.com                             | 2021-01-08     | GODADDY.COM, LLC
+ | turkiye-instagram.com                           | 2021-05-03     | WILD WEST DOMAINS, LLC
+ | uk-instagram.com                                | 2021-05-03     | WILD WEST DOMAINS, LLC
+ | unfollow-instagram.com                          | 2018-01-14     | NAME.COM, INC.
+ | user-check-instagram.com                        | 2017-12-22     | REGISTRAR OF DOMAIN NAMES REG.RU LLC
+ | user-confirm-instagram.com                      | 2018-02-23     | REGISTRAR OF DOMAIN NAMES REG.RU LLC
+ | user-instagram.com                              | 2020-12-30     | INTERNET DOMAIN SERVICE BS CORP
+ | user-instagram.com                              | 2020-12-30     | INTERNET DOMAIN SERVICE BS CORP
+ | user-log-instagram.com                          | 2018-02-25     | REGISTRAR OF DOMAIN NAMES REG.RU LLC
+ | verification-instagram.com                      | 2018-06-10     | REGISTRAR OF DOMAIN NAMES REG.RU LLC
+ | verification-team-instagram.com                 | 2020-04-17     | WILD WEST DOMAINS, LLC
+ | verifications-instagram.com                     | 2021-04-07     | WILD WEST DOMAINS, LLC
+ | verified-badge-instagram.com                    | 2020-08-15     | WILD WEST DOMAINS, LLC
+ | verified-instagram.com                          | 2018-04-17     | TUCOWS DOMAINS INC.
+ | verified-instagram.com                          | 2018-04-17     | TUCOWS DOMAINS INC.
+ | verified-instagram.com                          | 2021-06-06     | WILD WEST DOMAINS, LLC
+ | verified-tick-instagram.com                     | 2020-08-13     | WILD WEST DOMAINS, LLC
+ | verifiedbadge-instagram.com                     | 2020-08-02     | WILD WEST DOMAINS, LLC
+ | verifiedbadge-instagram.com                     | 2020-08-25     | WILD WEST DOMAINS, LLC
+ | verifiedbadges-instagram.com                    | 2019-01-16     | GODADDY.COM, LLC
+ | verifiedbadges-instagram.com                    | 2020-05-25     | WILD WEST DOMAINS, LLC
+ | verifieds-instagram.com                         | 2021-06-15     | WILD WEST DOMAINS, LLC
+ | verifies-instagram.com                          | 2020-09-11     | TUCOWS DOMAINS INC.
+ | verifies-instagram.com                          | 2020-09-17     | TUCOWS DOMAINS INC.
+ | verifikasi-instagram.com                        | 2020-11-20     | WILD WEST DOMAINS, LLC
+ | verifybadge-instagram.com                       | 2020-07-30     | WILD WEST DOMAINS, LLC
+ | verifybadges-instagram.com                      | 2020-08-13     | WILD WEST DOMAINS, LLC
+ | verifycenter-instagram.com                      | 2020-12-01     | WILD WEST DOMAINS, LLC
+ | verifycopyright-instagram.com                   | 2020-07-27     | WILD WEST DOMAINS, LLC
+ | verifycopyrights-instagram.com                  | 2020-08-20     | WILD WEST DOMAINS, LLC
+ | verifyforhelp-instagram.com                     | 2020-12-01     | WILD WEST DOMAINS, LLC
+ | verifying-instagram.com                         | 2020-09-09     | TUCOWS DOMAINS INC.
+ | verifys-instagram.com                           | 2020-09-11     | TUCOWS DOMAINS INC.
+ | verifysupport-instagram.com                     | 2020-12-14     | WILD WEST DOMAINS, LLC
+ | via--instagram.com                              | 2020-02-07     | GODADDY.COM, LLC
+ | violations-instagram.com                        | 2020-09-29     | WILD WEST DOMAINS, LLC
+ | vivienne-ho.com                                 | 2021-09-08     | SQUARESPACE DOMAINS LLC
+ | vzlom-akkaunta-instagram.com                    | 2017-01-13     | INTERNET DOMAIN SERVICE BS CORP
+ | vzlom-instagram.com                             | 2016-06-20     | INTERNET DOMAIN SERVICE BS CORP
+ | w-instagram.com                                 | 2020-04-26     | WILD WEST DOMAINS, LLC
+ | web-instagram.com                               | 2020-04-09     | WILD WEST DOMAINS, LLC
+ | wvw-instagram.com                               | 2017-09-05     | NAME.COM, INC.
+ | ww-instagram.com                                | 2020-09-01     | WILD WEST DOMAINS, LLC
+ | www-help-instagram.com                          | 2020-08-25     | TUCOWS DOMAINS INC.
+ | www-support-instagram.com                       | 2020-08-18     | WILD WEST DOMAINS, LLC
+ | wwwhellp-instagram.com                          | 2019-07-24     | GODADDY.COM, LLC
+ | zvezda-instagram.com                            | 2017-08-31     | REGISTRAR OF DOMAIN NAMES REG.RU LLC
